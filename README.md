@@ -4,6 +4,9 @@
 
 The **Chat-Bot – Scalable Google Gemini Clone** is a highly intelligent and scalable chatbot platform designed to simulate the capabilities of **Google Gemini AI**. The chatbot features dynamic conversational flows, context-aware responses, and a simulated typing effect, providing users with a highly engaging and natural conversational experience. It integrates the Google Gemini AI to generate accurate and relevant responses during chats, ensuring a responsive and seamless user interaction.
 
+<img width="450" alt="Image" src="https://github.com/user-attachments/assets/c8e9b506-0dce-4a4e-bebc-c20a4714f28d" />
+<img width="450" alt="Image" src="https://github.com/user-attachments/assets/934158ab-3dc0-476f-8faf-071e882084c9" />
+
 ## Features
 
 - **Dynamic Conversational Flows**: The bot is capable of engaging in context-aware conversations with users, delivering dynamic responses based on previous interactions.
@@ -19,8 +22,6 @@ The **Chat-Bot – Scalable Google Gemini Clone** is a highly intelligent and sc
 - **CSS**: Styling for a sleek and modern chat interface.
 - **Google Gemini API**: Integrated AI to generate contextually relevant and intelligent responses.
 
-<img width="400" alt="Image" src="https://github.com/user-attachments/assets/c8e9b506-0dce-4a4e-bebc-c20a4714f28d" />
-<img width="400" alt="Image" src="https://github.com/user-attachments/assets/934158ab-3dc0-476f-8faf-071e882084c9" />
 
 ## Installation
 
